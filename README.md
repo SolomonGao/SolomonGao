@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SolomonGao
-- 👀 I'm a software engineering student. I like programming and learning new knowledge.
+- 👀 My page: https://solomongao.github.io/portfolio/
 - 💞️ I'm looking for an internship! I also hope to be exposed to more projects to improve my programming skills.
 - 📫 How to reach me ：E-mail @ gaoxing738234123@gmail.com.
 
