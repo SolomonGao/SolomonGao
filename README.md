@@ -1,6 +1,5 @@
 <!-- ============================================================
-🌸 GitHub Profile README · SolomonGao
-🌸 可爱卡通风 · 中英双语 · 直接复制到 SolomonGao/SolomonGao 仓库的 README.md 即可
+GitHub Profile README · SolomonGao
 ============================================================ -->
 
 <!-- 🎀 顶部渐变横幅 -->
@@ -69,8 +68,6 @@ Hope to join more projects to sharpen my programming skills~
 <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=333"/>
 <img src="https://img.shields.io/badge/Git-ffdac1?style=for-the-badge&logo=git&logoColor=333"/>
 </p>
-
-<sub>💡 按你的实际技术栈增删徽章即可，更多图标见 <a href="https://shields.io">shields.io</a> ｜ Adjust badges to match your real stack</sub>
 
 ---
 
