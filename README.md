@@ -74,8 +74,8 @@ Hope to join more projects to sharpen my programming skills~
 ## 📊 GitHub 数据 · My GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SolomonGao&show_icons=true&theme=buefy&hide_border=true&title_color=ff85b3&icon_color=ffb6c1"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonGao&layout=compact&theme=buefy&hide_border=true&title_color=ff85b3"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SolomonGao&show_icons=true&theme=buefy&hide_border=true&title_color=ff85b3&icon_color=ffb6c1"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonGao&layout=compact&theme=buefy&hide_border=true&title_color=ff85b3"/>
 </div>
 
 <div align="center">
